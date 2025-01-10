@@ -141,6 +141,7 @@ export default function App() {
         gap: 10,
         maxWidth: 800,
         marginTop: 30,
+        marginBottom: 30,
         paddingLeft: 16,
         paddingRight: 16
       }}>
